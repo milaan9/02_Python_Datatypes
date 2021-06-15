@@ -47,7 +47,7 @@ Go [here](https://github.com/milaan9/02_Python_Datatypes) if you aren't here alr
     
 2. Click the big green "Clone or download" button in the top right of the page, then click "Download ZIP".
 
-    ![Download ZIP](img/dnld_rep.png)
+    ![Download ZIP](img/dnld_rep.png) 
 
 3. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.
     
