@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/github/repo-size/milaan9/02_Python_Datatypes.svg?colorB=purple&style=flat" alt="Size"/>
 <a href="https://github.com/milaan9/02_Python_Datatypes/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/02_Python_Datatypes.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/milaan9/02_Python_Datatypes/issues"><img src="https://img.shields.io/github/issues/milaan9/02_Python_Datatypes.svg?colorB=yellow&style=flat" alt="Issues Badge"/></a>
-<img src="https://img.shields.io/github/languages/top/milaan9/02_Python_Datatypes.svg?colorB=red&style=flat" alt="Language"/> </a> 
+<img src="https://img.shields.io/github/languages/top/milaan9/02_Python_Datatypes.svg?colorB=brown&style=flat" alt="Language"/> </a> 
 </p> 
 
 
