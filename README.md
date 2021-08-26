@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/github/repo-size/milaan9/02_Python_Datatypes.svg?colorB=CC66FF&style=flat" alt="Size"/>
 <a href="https://github.com/milaan9/02_Python_Datatypes/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/02_Python_Datatypes.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/milaan9/02_Python_Datatypes/issues"><img src="https://img.shields.io/github/issues/milaan9/02_Python_Datatypes.svg?colorB=yellow&style=flat" alt="Issues Badge"/></a>
-<img src="https://img.shields.io/github/languages/top/milaan9/02_Python_Datatypes.svg?colorB=996600&style=flat" alt="Language"/> </a> 
+<img src="https://img.shields.io/github/languages/top/milaan9/02_Python_Datatypes.svg?colorB=996600&style=flat" alt="Language"/></a> 
 <a href="https://github.com/milaan9/02_Python_Datatypes/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg" alt="MIT License"/></a>
 </p> 
 
