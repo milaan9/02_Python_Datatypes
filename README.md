@@ -38,7 +38,7 @@ No matter what value is stored in a variable (object), a variable can be any typ
 | 03 | **[Python_List](https://github.com/milaan9/02_Python_Datatypes/blob/main/003_Python_List.ipynb)** |
 |    | 3.1 **[Python_List_Methods](https://github.com/milaan9/02_Python_Datatypes/tree/main/003_Python_List_Methods)** |
 | 04 | **[Python_Tuple](https://github.com/milaan9/02_Python_Datatypes/blob/main/004_Python_Tuple.ipynb)** |
-|    | 4.1 **[Python_Tuple_Methods]https://github.com/milaan9/02_Python_Datatypes/tree/main/004_Python_Tuple_Methods)** |
+|    | 4.1 **[Python_Tuple_Methods](https://github.com/milaan9/02_Python_Datatypes/tree/main/004_Python_Tuple_Methods)** |
 | 05 | **[Python_Dictionary](https://github.com/milaan9/02_Python_Datatypes/blob/main/005_Python_Dictionary.ipynb)** |
 |    | 5.1 **[Python_Dictionary_Methods](https://github.com/milaan9/02_Python_Datatypes/tree/main/005_Python_Dictionary_Methods)** |
 | 06 | **[Python_Sets](https://github.com/milaan9/02_Python_Datatypes/blob/main/006_Python_Sets.ipynb)** |
