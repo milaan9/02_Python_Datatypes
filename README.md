@@ -63,7 +63,7 @@ Go [here](https://github.com/milaan9/02_Python_Datatypes) if you aren't here alr
 
 1. Go [here](https://github.com/milaan9/02_Python_Datatypes) if you aren't here already.
     
-2. Click the big green "Clone or download" button in the top right of the page, then click "[Download ZIP](https://github.com/milaan9/02_Python_Datatypes/archive/refs/heads/main.zip)".
+2. Click the big green "Code" button in the top right of the page, then click "[Download ZIP](https://github.com/milaan9/02_Python_Datatypes/archive/refs/heads/main.zip)".
 
     ![Download ZIP](img/dnld_rep.png) 
 
@@ -71,7 +71,7 @@ Go [here](https://github.com/milaan9/02_Python_Datatypes) if you aren't here alr
     
 4. Launch ipython notebook from the folder which contains the notebooks. Open each one of them
   
-    `Cell > All Output > Clear`
+    `Kernel > Restart & Clear Output`
     
 This will clear all the outputs and now you can understand each statement and learn interactively.
 
