@@ -61,7 +61,7 @@ Go [`here`](https://github.com/milaan9/02_Python_Datatypes) if you aren't here a
 
 ### How can I read this tutorial without an Internet connection? 🤔
 
-1. Go [`here`](https://github.com/milaan9/02_Python_Datatypes) and click the big green ➞ `Code` button in the top right of the page, then click ➞ [`Download ZIP`](https://github.com/milaan9/02_Python_Datatypes/archive/refs/heads/main.zip)'.
+1. Go [`here`](https://github.com/milaan9/02_Python_Datatypes) and click the big green ➞ `Code` button in the top right of the page, then click ➞ [`Download ZIP`](https://github.com/milaan9/02_Python_Datatypes/archive/refs/heads/main.zip).
 
     ![Download ZIP](img/dnld_rep.png) 
 
