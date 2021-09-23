@@ -53,17 +53,15 @@ These are online **read-only** versions. However you can "**Run** ▶" all the c
 
 ### How can I thank you for writing and sharing this tutorial? 🌷
 
-You can ⭐ star this tutorial. Starring is free for you, but it tells me and other people that it was helpful and you like this tutorial.
+You can <img src="https://img.shields.io/static/v1?label=%E2%AD%90 Star &message=if%20useful&style=style=flat&color=blue" alt="Star Badge"/> and <img src="https://img.shields.io/static/v1?label=%E2%B5%96 Fork &message=if%20useful&style=style=flat&color=blue" alt="Fork Badge"/> Starring and Forking is free for you, but it tells me and other people that it was helpful and you like this tutorial.
 
-Go [here](https://github.com/milaan9/02_Python_Datatypes) if you aren't here already and click the "⭐ Star" button in the top right corner. You will be asked to create a GitHub account if you don't already have one.
+Go [`here`](https://github.com/milaan9/02_Python_Datatypes) if you aren't here already and click ➞ `✰ Star` and `ⵖ Fork` button in the top right corner. You will be asked to create a GitHub account if you don't already have one.
 
 ---
 
 ### How can I read this tutorial without an Internet connection? 🤔
 
-1. Go [here](https://github.com/milaan9/02_Python_Datatypes) if you aren't here already.
-    
-2. Click the big green '`Code`' button in the top right of the page, then click '[`Download ZIP`](https://github.com/milaan9/02_Python_Datatypes/archive/refs/heads/main.zip)'.
+1. Go [`here`](https://github.com/milaan9/02_Python_Datatypes) and click the big green ➞ `Code` button in the top right of the page, then click ➞ [`Download ZIP`](https://github.com/milaan9/02_Python_Datatypes/archive/refs/heads/main.zip)'.
 
     ![Download ZIP](img/dnld_rep.png) 
 
