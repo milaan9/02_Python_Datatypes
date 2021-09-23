@@ -63,7 +63,7 @@ Go [here](https://github.com/milaan9/02_Python_Datatypes) if you aren't here alr
 
 1. Go [here](https://github.com/milaan9/02_Python_Datatypes) if you aren't here already.
     
-2. Click the big green "`code`" button in the top right of the page, then click "[`Download ZIP`](https://github.com/milaan9/02_Python_Datatypes/archive/refs/heads/main.zip)".
+2. Click the big green '`Code`' button in the top right of the page, then click '[`Download ZIP`](https://github.com/milaan9/02_Python_Datatypes/archive/refs/heads/main.zip)'.
 
     ![Download ZIP](img/dnld_rep.png) 
 
